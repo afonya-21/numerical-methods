@@ -1,0 +1,6 @@
+C:\Users\odine\OneDrive\Рабочий стол\численные методы\chisl_met_lab-1_komanda-4\chisl_met_lab-1_komanda-4\x64\Debug\chisl_met_lab-1_komanda-4.vcxproj.AssemblyReference.cache
+C:\Users\odine\OneDrive\Рабочий стол\численные методы\chisl_met_lab-1_komanda-4\chisl_met_lab-1_komanda-4\x64\Debug\chislmetlab1komanda4.MyForm.resources
+C:\Users\odine\OneDrive\Рабочий стол\численные методы\chisl_met_lab-1_komanda-4\chisl_met_lab-1_komanda-4\x64\Debug\chisl_met_lab-1_komanda-4.vcxproj.GenerateResource.cache
+C:\Users\ikiri\source\repos\Новая папка\chisl_met_lab-1_komanda-4 — копия\chisl_met_lab-1_komanda-4\x64\Debug\chisl_met_lab-1_komanda-4.vcxproj.AssemblyReference.cache
+C:\Users\ikiri\source\repos\Новая папка\chisl_met_lab-1_komanda-4 — копия\chisl_met_lab-1_komanda-4\x64\Debug\chislmetlab1komanda4.MyForm.resources
+C:\Users\ikiri\source\repos\Новая папка\chisl_met_lab-1_komanda-4 — копия\chisl_met_lab-1_komanda-4\x64\Debug\chisl_met_lab-1_komanda-4.vcxproj.GenerateResource.cache
